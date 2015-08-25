@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player>
+<video>
+   <videoList>
+      <source>http://www.youtube.com/watch?v=ZCqqSOBfF0I</source>
+   </videoList>
+   <videoAdsList>
+      <source></source>
+   </videoAdsList>
+   <videoAdsLinkList>
+      <source></source>
+   </videoAdsLinkList>
+   <thumbnailList>
+      <source></source>
+   </thumbnailList>
+   <smalldescrPlayList>
+      <description><![CDATA[youtube video]]></description>
+   </smalldescrPlayList>
+   <smallthumbPlayList>
+      <source></source>
+   </smallthumbPlayList>
+   <videoSubtitleList>
+      <source></source>
+   </videoSubtitleList>
+   <videoLinkList>
+      <source>http://www.youtube.com/watch?v=ZCqqSOBfF0I</source>
+   </videoLinkList>
+   <videoLinkTargetList>
+      <source></source>
+   </videoLinkTargetList>
+   <videoAdsLinkTargetList>
+      <source></source>
+   </videoAdsLinkTargetList>
+</video>
+</player>

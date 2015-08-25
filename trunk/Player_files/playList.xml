@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player>
+<video>
+   <videoList>
+      <source>videos/Tigers for kids. Educational Video..flv</source>
+   </videoList>
+   <videoAdsList>
+      <source>videos/Zoopedia1.flv</source>
+   </videoAdsList>
+   <videoAdsLinkList>
+      <source>animaloftheday.html</source>
+   </videoAdsLinkList>
+   <thumbnailList>
+      <source>demo_files/preview1.jpg</source>
+   </thumbnailList>
+   <smalldescrPlayList>
+      <description><![CDATA[first flv video]]></description>
+   </smalldescrPlayList>
+   <smallthumbPlayList>
+      <source>images/header.jpg</source>
+   </smallthumbPlayList>
+   <videoSubtitleList>
+      <source></source>
+   </videoSubtitleList>
+   <videoLinkList>
+      <source></source>
+   </videoLinkList>
+   <videoLinkTargetList>
+      <source></source>
+   </videoLinkTargetList>
+   <videoAdsLinkTargetList>
+      <source></source>
+   </videoAdsLinkTargetList>
+</video>
+</player>

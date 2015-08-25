@@ -1,0 +1,1 @@
+{"skin":"skin7","colorscheme":"","isCustomSkin":false,"instanceID":"xtd_jQuerySlideshowPlus11"}

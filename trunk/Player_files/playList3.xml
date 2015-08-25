@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player>
+<video>
+   <videoList>
+      <source></source>
+   </videoList>
+   <videoAdsList>
+      <source></source>
+   </videoAdsList>
+   <videoAdsLinkList>
+      <source></source>
+   </videoAdsLinkList>
+   <thumbnailList>
+      <source></source>
+   </thumbnailList>
+   <smalldescrPlayList>
+      <description><![CDATA[Gorilla Video]]></description>
+   </smalldescrPlayList>
+   <smallthumbPlayList>
+      <source></source>
+   </smallthumbPlayList>
+   <videoSubtitleList>
+      <source></source>
+   </videoSubtitleList>
+   <videoLinkList>
+      <source></source>
+   </videoLinkList>
+   <videoLinkTargetList>
+      <source></source>
+   </videoLinkTargetList>
+   <videoAdsLinkTargetList>
+      <source></source>
+   </videoAdsLinkTargetList>
+</video>
+</player>

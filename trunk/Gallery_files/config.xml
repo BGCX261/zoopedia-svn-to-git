@@ -1,0 +1,86 @@
+<gallery>
+    <_dateformat>mmddyyyy</_dateformat>
+    <_carouselThumbFrameAlpha>100</_carouselThumbFrameAlpha>
+    <_galleryWidth>800</_galleryWidth>
+    <_galleryHeight>600</_galleryHeight>
+    <_thumbnailWidth>60</_thumbnailWidth>
+    <_thumbnailHeight>60</_thumbnailHeight>
+    <_galFilesPath>Gallery_f</_galFilesPath>
+    <_configXMLPath>Gallery_f/config.xml</_configXMLPath>
+    <_imgListXML_Path>Gallery_f/imge_list.xml</_imgListXML_Path>
+    <_interfaceColor>#CCCCCC</_interfaceColor>
+    <_interfaceBorderColor>#FFFFFF</_interfaceBorderColor>
+    <_interfaceAlpha>20</_interfaceAlpha>
+    <_interfaceBorderAlpha>40</_interfaceBorderAlpha>
+    <_interfacePanelBevelAlpha>50</_interfacePanelBevelAlpha>
+    <_imagePreloaderType>animation and persents</_imagePreloaderType>
+    <_showToolTips>true</_showToolTips>
+    <_showFullscreenButton>true</_showFullscreenButton>
+    <_bgcolor>#000000</_bgcolor>
+    <_interfaceDropDownColor>#222222</_interfaceDropDownColor>
+    <_bgImage>Gallery_files/background.png</_bgImage>
+    <_bgTransparency>false</_bgTransparency>
+    <_bgImageLayout>tile</_bgImageLayout>
+    <_showVolumeButton>true</_showVolumeButton>
+    <_bgSoundVolume>60</_bgSoundVolume>
+    <_bgSound>Gallery_files/background_sound.mp3</_bgSound>
+    <_interfaceFontFamily>Arial</_interfaceFontFamily>
+    <_interfaceFontColor>#FFFFFF</_interfaceFontColor>
+    <_interfaceFontBold>false</_interfaceFontBold>
+    <_interfaceFontItalic>false</_interfaceFontItalic>
+    <_usedTexts>FOLDERS,CALENDAR,SEARCH,INFO,PREVIEW,File name:,Size:,Dimensions:,Date:,Double click to ViewMode,Folder:,Category:,Fullscreen,View mode,Browse mode,Mute sound,Categories,Show all images</_usedTexts>
+    <_rightClickMenuTexts>Go to View/Extended Mode,Next Image,Previous Image,Slide Show,Full Screen,Image Zoom In,Image Zoom Out,Image Rotate Left,Image Rotate Right</_rightClickMenuTexts>
+    <_topPanelHeader>WebStunning Photo Gallery</_topPanelHeader>
+    <_galleryViewMode>true</_galleryViewMode>
+    <_viewModeBottomPanelAutoHide>true</_viewModeBottomPanelAutoHide>
+    <_showCategoriesButton>true</_showCategoriesButton>
+    <_showBrowseButton>true</_showBrowseButton>
+    <_autoPlay>false</_autoPlay>
+    <_imageDelay>7</_imageDelay>
+    <_imagesImposing>false</_imagesImposing>
+    <_imageZoom>fit image</_imageZoom>
+    <_imageRoundedCornersType>none</_imageRoundedCornersType>
+    <_showImageDescription>true</_showImageDescription>
+    <_showImageCaptionPanel>true</_showImageCaptionPanel>
+    <_imageDescriptionMargin>10</_imageDescriptionMargin>
+    <_showImageBorder>true</_showImageBorder>
+    <_imageBorderSize>5</_imageBorderSize>
+    <_imageBorderColor>#FFFFFF</_imageBorderColor>
+    <_showImageOnlyOnFullscreen>false</_showImageOnlyOnFullscreen>
+    <_showImageAlwaysOnCenter>false</_showImageAlwaysOnCenter>
+    <_showControllerButtons>true</_showControllerButtons>
+    <_showZoomButtons>true</_showZoomButtons>
+    <_showRotateButtons>true</_showRotateButtons>
+    <_showThumbCarousel>true</_showThumbCarousel>
+    <_carouselThumbSelectedNum>1</_carouselThumbSelectedNum>
+    <_carouselThumbOverAnimation>frame and colouring</_carouselThumbOverAnimation>
+    <_carouselThumbMargin>5</_carouselThumbMargin>
+    <_carouselThumbFrameColor>#FFFFFF</_carouselThumbFrameColor>
+    <_carouselThumbOnReleaseFullScr>false</_carouselThumbOnReleaseFullScr>
+    <_carouselSpeed>1</_carouselSpeed>
+    <_carouselThumbReflection>false</_carouselThumbReflection>
+    <_galleryBrowseMode>true</_galleryBrowseMode>
+    <_thumbnailMargin>12</_thumbnailMargin>
+    <_showFolderPanel>true</_showFolderPanel>
+    <_showCalendarPanel>true</_showCalendarPanel>
+    <_showSearchPanel>true</_showSearchPanel>
+    <_showModifyPanel>true</_showModifyPanel>
+    <_showPreviewPanel>true</_showPreviewPanel>
+    <_showInfoPanel>true</_showInfoPanel>
+    <_calendarMonthsNames>January,February,March,April,May,June,July,August,September,Octomber,November,December</_calendarMonthsNames>
+    <_calendarDaysNames>Su,Mo,Tu,We,Th,Fr,Sa</_calendarDaysNames>
+    <_searchTexts>Keyword search:,Include Captions,Include Descriptions,Include File names</_searchTexts>
+    <_showWatermark>false</_showWatermark>
+    <_watermarkText>WebStunning.com</_watermarkText>
+    <_watermarkLayout>corner</_watermarkLayout>
+    <_watermarkAlpha>80</_watermarkAlpha>
+    <_watermarkFontFamily>Arial</_watermarkFontFamily>
+    <_watermarkFontSize>35</_watermarkFontSize>
+    <_watermarkFontItalic>false</_watermarkFontItalic>
+    <_watermarkFontBold>true</_watermarkFontBold>
+    <_showRightClickMenu>true</_showRightClickMenu>
+    <_rightClickMenuCopyright>WebStunning Photo Gallery</_rightClickMenuCopyright>
+    <_rightClickMenuCopyrightLink>webstunning.com</_rightClickMenuCopyrightLink>
+    <_rightClickMenuCopyrightTarget>_blank</_rightClickMenuCopyrightTarget>
+    <_objectID>WSgallery</_objectID>
+</gallery>

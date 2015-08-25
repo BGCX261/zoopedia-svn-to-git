@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+<folder path="Gallery_images" category="General Category" >
+<folder path="Gallery_images/img1" category="Category 1" >
+<image thumbnail="thumb_image1.jpg" large_image="image1.jpg" date="01.05.2009" link="http://webstunning.com" target="" caption="Image 1 caption" transition="random">
+<description><![CDATA[<P ALIGN='CENTER'><FONT FACE='_sans' SIZE='12' COLOR='#FF0000'>Test HTML format</FONT></P>]]></description>
+</image>
+<image thumbnail="thumb_image2.jpg" large_image="image2.jpg" date="02.03.2009" link="http://webstunning.com" target="" caption="Image 2 caption" transition="random">
+<description><![CDATA[Image 2 description]]></description>
+</image>
+<image thumbnail="thumb_image3.jpg" large_image="image3.jpg" date="03.02.2009" link="http://webstunning.com" target="" caption="Image 3 caption" transition="random">
+<description><![CDATA[Image 3 description]]></description>
+</image>
+<image thumbnail="thumb_image4.jpg" large_image="image4.jpg" date="04.02.2009" link="http://webstunning.com" target="" caption="Image 4 caption" transition="random">
+<description><![CDATA[Image 4 description]]></description>
+</image>
+<image thumbnail="thumb_image5.jpg" large_image="image5.jpg" date="05.04.2009" link="http://webstunning.com" target="" caption="Image 5 caption" transition="random">
+<description><![CDATA[Image 5 description]]></description>
+</image>
+<folder path="Gallery_images/img1/img1-2" category="Sub Category 1" >
+<image thumbnail="thumb_image1.jpg" large_image="image1.jpg" date="11.05.2009" link="http://webstunning.com" target="" caption="Image 1 caption" transition="random">
+<description><![CDATA[Image 1 description]]></description>
+</image>
+<image thumbnail="thumb_image2.jpg" large_image="image2.jpg" date="22.04.2009" link="http://webstunning.com" target="" caption="Image 2 caption" transition="random">
+<description><![CDATA[Image 2 description]]></description>
+</image>
+<folder path="Gallery_images/img1/img1-2/img1-2-3" category="Sub Sub Category 1" >
+<image thumbnail="thumb_image1.jpg" large_image="image1.jpg" date="17.03.2009" link="http://webstunning.com" target="" caption="Image 1 caption" transition="random">
+<description><![CDATA[Image 1 description]]></description>
+</image>
+</folder>
+</folder>
+</folder>
+<folder path="Gallery_images/img2" category="Category 2" >
+<image thumbnail="thumb_image1.jpg" large_image="image1.jpg" date="01.05.2009" link="http://webstunning.com" target="" caption="Folder 2 Image 1 caption" transition="random">
+<description><![CDATA[Image 1 description]]></description>
+</image>
+<image thumbnail="thumb_image2.jpg" large_image="image2.jpg" date="09.05.2009" link="http://webstunning.com" target="" caption="Folder 2 Image 2 caption" transition="random">
+<description><![CDATA[Image 2 description]]></description>
+</image>
+<image thumbnail="thumb_image3.jpg" large_image="image3.jpg" date="15.04.2009" link="http://webstunning.com" target="" caption="Folder 2 Image 3 caption" transition="random">
+<description><![CDATA[Image 3 description]]></description>
+</image>
+</folder>
+</folder>
+</gallery>

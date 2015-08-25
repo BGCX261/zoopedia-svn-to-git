@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book>
+	<page bookmark="BOOKMARK">
+		<item type="text" font_size="16" color="0xF0F0F0" caption="TITLE" />
+		<item type="separator" color="0x505050" />
+		<item type="text" caption="PAGE TEXT 1" />
+		<item type="link" caption="EXTERNAL LINK" link="empty.html" target="_self" />
+		<item type="link" caption="PAGE LINK" link="goto:2" />
+		<item type="img" src="book_files/photos/photo01.jpg" link="empty.html" target="_self" margin_top="5" />
+	</page>
+	<page wide="true">
+		<item type="text" caption="PAGE TEXT 2-3" />
+		<item type="img" src="book_files/photos/photo02.jpg" />
+	</page>	
+	<page>
+		<item type="text" caption="PAGE TEXT 4" />
+		<item type="img" magnify="true" src="book_files/photos/photo03.jpg" />
+	</page>
+	<page>
+		<item type="text" caption="PAGE TEXT 5" />
+		<item type="img" src="book_files/photos/photo01.jpg" />
+	</page>
+	<page bookmark="BOOKMARK">
+		<item type="text" caption="PAGE TEXT 6" />
+		<item type="img" src="book_files/photos/photo02.jpg" />
+	</page>
+</book>
